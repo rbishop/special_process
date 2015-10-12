@@ -13,6 +13,11 @@ emit and handle proper system and error logger messages.
 You can see the Erlang/OTP documentation for more about [special
 processes](http://www.erlang.org/doc/design_principles/spec_proc.html).
 
+Here is a great [blog
+post](http://marcelog.github.io/articles/erlang_special_processes_tutorial_handling_system_messages.html)
+and [list of resources on special
+processes](https://github.com/marcelog/rebar-spec-proc-tpl).
+
 ## Usage
 
 ```elixir
